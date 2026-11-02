@@ -71,6 +71,10 @@ Full windows or MAC executable file for a local GUI to analyse images. See Relea
 
 <br>
 
+<img width="1836" height="812" alt="image" src="https://github.com/user-attachments/assets/f597f7b8-b8a9-44cf-841c-2e0b8852a424" />
+
+<br>
+
 
 <img width="622" height="601" alt="feature_overlay" src="https://github.com/user-attachments/assets/5ce93992-7aa6-457b-a659-7960224239e0" />
 
@@ -89,6 +93,13 @@ Full windows or MAC executable file for a local GUI to analyse images. See Relea
 
 
 <br>
+
+<img width="1882" height="986" alt="image" src="https://github.com/user-attachments/assets/54a4a3a5-3927-4995-b5d2-7072e8351915" />
+
+
+<br>
+
+<img width="1908" height="898" alt="image" src="https://github.com/user-attachments/assets/919c55dc-f437-4b69-8f3b-1198c75e3589" />
 
 
 <br>
