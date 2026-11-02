@@ -12,7 +12,7 @@ OCT Feature Mapper is a standalone windows based (offline) app for annotating, m
 
 <br><br>
 
-Windows (.exe) executable file containing locally run program - see releases  ----->
+Windows (.exe) executable file containing locally run program - see releases    -------------->
 
 Or download from https://amanjosan.netlify.app/software/oct_feature_mapper/
 
