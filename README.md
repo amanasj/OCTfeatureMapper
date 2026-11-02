@@ -20,6 +20,8 @@ Or download from https://amanjosan.netlify.app/software/oct_feature_mapper/
 
 -------------------------------------------------------------------------------------------------------------------
 
+v2.6 - 02/11/2026 - added significant functionality by adding coregistration of microperimetry (3D hill of vision) and BAF images to OCT enface and bscan images 
+
 v2.3 - 14/07/2026 - added several new editing buttons in GUI
 
 v2.2 - 07/07/2026 - added semi-automatic layer segmentation
