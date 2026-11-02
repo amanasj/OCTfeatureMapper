@@ -59,8 +59,8 @@ Full windows or MAC executable file for a local GUI to analyse images. See Relea
 
 <br>
 
-<img width="750" height=600" alt="image" src="https://github.com/user-attachments/assets/2fde65eb-3325-444b-bdb6-f34ecb7d4c3a" />
 
+<img width="750" height=600" alt="image" src="https://github.com/user-attachments/assets/2fde65eb-3325-444b-bdb6-f34ecb7d4c3a" />
 
 
 <br>
@@ -72,7 +72,7 @@ Full windows or MAC executable file for a local GUI to analyse images. See Relea
 
 <br>
 
-<img width="1836" height="812" alt="image" src="https://github.com/user-attachments/assets/f597f7b8-b8a9-44cf-841c-2e0b8852a424" />
+<img width="1200" height="550" alt="image" src="https://github.com/user-attachments/assets/f597f7b8-b8a9-44cf-841c-2e0b8852a424" />
 
 <br>
 
@@ -95,12 +95,12 @@ Full windows or MAC executable file for a local GUI to analyse images. See Relea
 
 <br>
 
-<img width="1882" height="986" alt="image" src="https://github.com/user-attachments/assets/54a4a3a5-3927-4995-b5d2-7072e8351915" />
+<img width="1200" height="700" alt="image" src="https://github.com/user-attachments/assets/54a4a3a5-3927-4995-b5d2-7072e8351915" />
 
 
 <br>
 
-<img width="1908" height="898" alt="image" src="https://github.com/user-attachments/assets/919c55dc-f437-4b69-8f3b-1198c75e3589" />
+<img width="1200" height="700" alt="image" src="https://github.com/user-attachments/assets/919c55dc-f437-4b69-8f3b-1198c75e3589" />
 
 
 <br>
