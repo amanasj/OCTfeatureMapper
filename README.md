@@ -7,12 +7,12 @@ Josan, A. (2026). OCT feature Mapper. Zenodo. https://doi.org/10.5281/zenodo.205
 
 <br>
 
-OCT Feature Mapper is a Python tool for annotating, mapping, visualising, and exporting Heidelberg DICOM retinal optical coherence tomography image features. This downloadable and locally run program vastly expands on the capabilities of the standard Heyex software.
+OCT Feature Mapper is a standalone windows based (offline) app for annotating, mapping, visualising, and exporting Heidelberg DICOM retinal optical coherence tomography image features, along with microperimetry and BAF co-registered images. This downloadable and locally run program vastly expands on the capabilities of the standard Heyex software.
 
 
 <br><br>
 
-Windows (.exe) and MAC (.app) executable files containing locally run program - see releases  ----->
+Windows (.exe) executable file containing locally run program - see releases  ----->
 
 Or download from https://amanjosan.netlify.app/software/oct_feature_mapper/
 
