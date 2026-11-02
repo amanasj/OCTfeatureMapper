@@ -60,7 +60,7 @@ Full windows or MAC executable file for a local GUI to analyse images. See Relea
 <br>
 
 
-<img width="1069" height="885" alt="image" src="https://github.com/user-attachments/assets/9bc6135a-fae3-4cbc-b7fb-4e4fabf27e47" />
+<img width="800" height="650" alt="image" src="https://github.com/user-attachments/assets/9bc6135a-fae3-4cbc-b7fb-4e4fabf27e47" />
 
 
 
